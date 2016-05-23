@@ -1,0 +1,10 @@
+PODS:
+  - DBSphereTagCloud (1.0.0)
+
+DEPENDENCIES:
+  - DBSphereTagCloud (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  DBSphereTagCloud: 57b9571e93b3565fc22cd65040eabbada06b56f2
+
+COCOAPODS: 0.39.0
